@@ -1,0 +1,38 @@
+.azul{
+    display: flex;
+    border: gray 5px solid;
+    background-color: aquamarine;
+    padding: 40px;
+}
+
+.chico{
+    margin-top: 0%;
+    height: 50px;
+    }
+
+.grande{ 
+    height: 70px;
+    position: relative;
+}
+
+.container{
+    margin: auto;
+    height: 150px; 
+}
+    
+.mediano{
+    float: left;
+    width: 576px;
+    height: 70px;
+}
+
+.margin.derecho{
+float: right;
+margin-right: auto;
+}
+
+.margin.abajo{
+margin-bottom: auto;
+}
+
+
